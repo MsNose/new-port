@@ -1,0 +1,11 @@
+---
+enable: true
+topTitle: Hello, I am Blanka
+content: >
+  # I am here for your business
+
+  I'm a data nerd ready to dive into diverse challenges and transform data into powerful insights.
+
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/profil.jpg

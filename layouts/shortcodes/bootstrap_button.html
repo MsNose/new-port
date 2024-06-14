@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="../../../dist/css/bootstrap.min.css"> <!-- Adjust this path accordingly -->
+    <title>Button</title>
+  </head>
+  <body>
+    <div class="container">
+     {{ $alignment := .Get "alignment" }}
+
+{{ if eq $alignment "horizontal" }}
+  <div class="row">
+    <div class="col">
+      <a href="{{ .Get "link" }}" class="btn btn-primary">{{ .Inner }}</a>
+    </div>
+  </div>
+{{ else if eq $alignment "vertical" }}
+  <div class="col">
+    <a href="{{ .Get "link" }}" class="btn btn-primary btn-block">{{ .Inner }}</a>
+  </div>
+{{ end }} 
+ 
+    <script src="/assets/bootstrap-4.5.2/site/docs/4.5/assets/js/vendor/jquery.slim.min.js"</script> <!-- Adjust this path accordingly -->
+    <script src="/assets/bootstrap-4.5.2/js/dist/util.js"></script> <!-- Adjust this path accordingly -->
+    <script src="/assets/bootstrap-4.5.2/js/dist/button.js"></script> <!-- Adjust this path accordingly -->
+  </body>
+</html>

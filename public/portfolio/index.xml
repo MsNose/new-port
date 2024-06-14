@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Portfolio - Blanka Móri</title>
+    <link>http://example.org/portfolio/</link>
+    <description>Recent content in Portfolios on Portfolio - Blanka Móri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jan 2024 12:49:27 +0600</lastBuildDate>
+    <atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dutch election Analysis</title>
+      <link>http://example.org/portfolio/dutch-elections/</link>
+      <pubDate>Sat, 13 Jan 2024 12:49:27 +0600</pubDate>
+      <guid>http://example.org/portfolio/dutch-elections/</guid>
+      <description>As religion in the western world declines day by day, it is hard to keep track of the numbers. Thus, instead of looking at the current values, I looked at the roots. In Dutch history, modernity was dominated by a pillarized system: the catholics, porotestants, liberals, socialists lived next to each other but in parallel worlds. The four pillars had their own schools, broadcasters, newspapers, associations, contributing to a segregated society.</description>
+    </item>
+    <item>
+      <title>Smart Service Project</title>
+      <link>http://example.org/portfolio/smart-service-project/</link>
+      <pubDate>Wed, 13 Dec 2023 12:49:27 +0600</pubDate>
+      <guid>http://example.org/portfolio/smart-service-project/</guid>
+      <description>&lt;!doctype html&gt;&#xD;Button&#xD;Look at the Project on Github!&#xD;</description>
+    </item>
+    <item>
+      <title>Asset Management</title>
+      <link>http://example.org/portfolio/style-analysis/</link>
+      <pubDate>Fri, 13 Oct 2023 12:49:27 +0600</pubDate>
+      <guid>http://example.org/portfolio/style-analysis/</guid>
+      <description>Look at the project at GitHub The goal of the project was to explain the returns of a fund by established indices.&#xA;By conducting style analysis, investors and portfolio managers can make informed decisions about the suitability of their portfolios for different market conditions. It offers static and dynamic perspective, acknowledging that market environments change over time, and portfolios need to be adaptable to deliver consistent performance.&#xA;Startegic Style Analysis In this analysis covering 60 months, we explore the performance of a unique investment fund.</description>
+    </item>
+    <item>
+      <title>Market Research</title>
+      <link>http://example.org/portfolio/market-research/</link>
+      <pubDate>Sat, 20 May 2023 12:13:40 +0000</pubDate>
+      <guid>http://example.org/portfolio/market-research/</guid>
+      <description>The task My project consisted of 5 steps:&#xA;Getting to know the museum and their ticketing software.&#xA;Researching alternatives to the ticketing software.&#xA;Quantitative research: survey of other museums.&#xA;Qualitative research: in depth interviews of other museums.&#xA;Presenting results to the museum director and board members.&#xA;The data I collected data about museums in Belgium and the Netherlands with similar profiles to my target museum, and looked at the proportion if e-tickeing software they use.</description>
+    </item>
+  </channel>
+</rss>

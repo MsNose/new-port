@@ -1,0 +1,15 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+    As a BI fan I have a great passion for data analytics and visualization.
+content: >
+  ### I design and build ultimate things.
+
+  I love diving into complex data challenges and crafting insightful, impactful visual narratives. My goal is to turn raw data into clear, actionable insights that drive informed decisions. With strong data-analytical skills, I excel in statistical analysis, data modeling, and creating intuitive, user-friendly dashboards. Combining my expertise in visual design with a rigorous analytical approach, I consistently deliver the best possible insights to enhance user experience and facilitate better decision-making.
+
+button2Name: Download CV
+button2Target: contact
+image: images/about/about.jpg

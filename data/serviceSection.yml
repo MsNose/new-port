@@ -1,0 +1,37 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## My Passions
+
+  I am always eager to learn something new, my hunger for knowledge never dies. Thus, I have become passionate aboute many topics. 
+service:
+  - content: >
+      #### Data Visualization 
+
+      I love getting insights from visiulizations, whether it is done by Tableau, Power BI, Excel, or any other tool. My favorite viz type are maps, they always surprise me. 
+    image: images/service/creative.svg
+
+  - content: >
+      #### Data Analysis 
+
+      From collectiong and transforming to analysing and predicting i love being a passenger on the data journey. Getting from data to information, knowledge and wisdom is a real gamechanger.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development 
+
+      My enthousiasm for web-development started with a travelblog, where I collected my memories during my exchange semester at Bocconi.
+    image: images/service/web.svg
+  
+  - content: >
+      #### Languages
+
+      With my international family connections and curiosity for travel I managed to learn a lot of languages, which became truly my passion.
+    image: images/service/branding.svg
+    
+  - content: >
+      #### Reading
+
+      I am a real bookworm, always eager to read. My favorite genre are history books, which contribute to my understanding of the world enormously. Who needs fantasy books when you can travel back in time?
+    image: images/service/creative.svg
+
