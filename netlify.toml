@@ -1,16 +1,10 @@
 [build]
-publish = "public"
-command = "hugo --minify --gc"
+  publish = "public" # The directory where Hugo outputs the generated site files
+  command = "hugo"  # The command to build your site
 
-[build.environment]
-HUGO_VERSION = "0.87.0"
-HUGO_BASEURL = "/"
+[context.production.environment]
+  HUGO_VERSION = "0.111.3"  # Use the Hugo version you're working with
 
-[[headers]]
-for = "/*" # This defines which paths this specific [[headers]] block will cover.
+[context.deploy-preview]
+  command = "hugo --buildDrafts --buildFuture"
 
-[headers.values]
-X-Frame-Options = "DENY"
-X-XSS-Protection = "1; mode=block"
-Referrer-Policy = "same-origin"
-Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
