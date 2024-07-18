@@ -5,15 +5,11 @@ title: >
   ## What People Say About Me?
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
-    star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
-    star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    star: 3
+  - name:  Bram Faubert
+    position: Associate Professor at Maastricht University
+    comment: I got to know Blanka as a nice and very intelligent student in the Business Intelligence & Smart Services (BISS) master, of which I was the program director at that time. In particular, she took my course Smart Service Skills, in which students among other things get introduced to the R programming environment. Blanka was a top student in my course and the master program as a whole, and graduated Cum Laude. But Blanka also distinguished herself outside the program --- she combined her master thesis with an internship, added an exchange semester at the top school Bocconi University, and joined me at the Open Day as a student ambassador for the BISS master.
+    time: April 20, 2024
+  - name: Sebastiaan Jammaers
+    position: Head of Information Management and Digitalisation at the Gallo-Roman Museum
+    comment: During her internship in the Gallo-Roman Museum in Tongeren, Blanka proved to be a smart, enthousiastic and multilingual asset to the team. She helped evaluate our current ticketing system by looking at best practices, interviewing people in the field, and applying her university knowledge in a practical way. A pleasure to work with!
+    time: June 16, 2023

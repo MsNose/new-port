@@ -1,6 +1,6 @@
 {{ with .Site.Data.skillSection }}
 {{ if .enable }}
-<section class="section skill", id="skills">
+<section class="section skill" id="skills">
     <div class="skill__background_shape">
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 600">
             <defs>
@@ -27,11 +27,11 @@
                     </div>
                     <div class="skill__thumb_image">
                         <img src="{{ .image | absURL }}" alt="skill-img" style='
-                                        -webkit-mask: url({{"images/skill/skill-mask-svg.svg" | absURL}});
-                                        -webkit-mask-repeat: no-repeat;
-                                        -webkit-mask-size: contain;
-                                        -webkit-mask-position: center center;
-                                    '>
+                            -webkit-mask: url({{"images/skill/skill-mask-svg.svg" | absURL}});
+                            -webkit-mask-repeat: no-repeat;
+                            -webkit-mask-size: contain;
+                            -webkit-mask-position: center center;
+                        '>
                     </div>
                 </div>
             </div>
@@ -44,11 +44,9 @@
                     {{ $section := .skill }}
                     {{ range $section }}
                     <div class="skill__progress_item">
-                        <span class="d-inline-block text-dark"> {{ .title }} </span>
-                        <div class="progress-value float-right"><span>{{ .percent }}</span>%</div>
+                        <span class="d-inline-block text-dark">{{ .title }}</span>
                         <div class="progress">
-                            <div class="progress-bar" style="width:{{ .percent }}%;" aria-valuemin="0"
-                                aria-valuemax="{{ .percent }}"></div>
+                            <div class="progress-bar" style="width: {{ .percent }}%;" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
                     {{ end }}
