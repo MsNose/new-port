@@ -62,7 +62,7 @@ copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/site-navigation/logo5.png"
 # We're using formspree.io for form handling, paste your formspree url below
 fabformURL  = "https://fabform.io/f/JpTXRUa"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "G-BE6VMBF5QZ"
 logo = "images/site-navigation/logo3.png"
 
 [params.address]
