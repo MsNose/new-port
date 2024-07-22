@@ -1,16 +1,16 @@
 ---
-title: PowerBI & Tableau Projects
+title: Power BI & Tableau Projects
 date: 2024-02-10T12:49:27.000+06:00
 thumbnail: images/portfolio/powerbi.png
 service: Dashboard 
 client: Personal Project
-shortDescription: PowerBI and Tableau are both fascinating BI tools, however both have their advantages and disadvantages that everyone needs to experience.
-challenge: Compared to Tableau, PowerBI is more flexible and user-friendly, which gives a quicker intro to users. However, this comes along with a naturally more flexible structure, which needs previous planning and careful thoughts. 
-solution:  Although PowerBI offers an easier solution for companies within the Microsoft ecosystem, Tableau is a better choice for handling and combining large datasets, as well as for leveraging complex analytics and visualizations.
+shortDescription: Power BI and Tableau are both fascinating BI tools, however both have their advantages and disadvantages that everyone needs to experience.
+challenge: Compared to Tableau, Power BI is more flexible and user-friendly, which gives a quicker intro to users. However, this comes along with a naturally more flexible structure, which needs previous planning and careful thoughts. 
+solution:  Although Power BI offers an easier solution for companies within the Microsoft ecosystem, Tableau is a better choice for handling and combining large datasets, as well as for leveraging complex analytics and visualizations.
 
 ---
 
-In PowerBI I developed two dashboards, one for the HR and one for Sales department, using data from Kaggle. The journey of transforming data into such vizualisations truly fascinated me. I learned on the way about the KPIs and their calculations, which equipped me with a better understanding of the different departments and the role they play inside companies.
+In Power BI I developed two dashboards, one for the HR and one for Sales department, using data from Kaggle. The journey of transforming data into such vizualisations truly fascinated me. I learned on the way about the KPIs and their calculations, which equipped me with a better understanding of the different departments and the role they play inside companies.
 
 Look at my PowerBI projects on GitHub!  
 

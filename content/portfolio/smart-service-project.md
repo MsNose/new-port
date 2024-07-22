@@ -12,6 +12,14 @@ solution: Our team developed a dashboard with KPIs to support the green transiti
 
 {{< bootstrap_button link="https://github.com/MsNose/smart-service-project" alignment="vertical" >}}Look at the Project on Github!{{< /bootstrap_button >}}
 
+---
+  
+
+
+{{< linkedin >}}
+
+
+
 Throughout the project we leveraged the powerful capabilities of **Python**, **RStudio** and **Tableau**.
 
 The project includes the following steps:
