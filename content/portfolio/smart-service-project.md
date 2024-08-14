@@ -1,6 +1,7 @@
 ---
 title: Smart Service Project
 date: 2023-12-13T12:49:27.000+06:00
+weight: 5
 thumbnail: images/portfolio/smart.png
 service: Dashboard 
 client: Goederenhub Maastricht

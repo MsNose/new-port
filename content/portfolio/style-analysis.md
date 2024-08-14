@@ -1,6 +1,7 @@
 ---
 title: Asset Management
 date: 2023-10-13T12:49:27.000+06:00
+weight: 2
 thumbnail: images/portfolio/asset.png
 service: Style analysis 
 client: Bocconi University

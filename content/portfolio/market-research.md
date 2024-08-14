@@ -1,6 +1,7 @@
 ---
 title: Market Research
 date: 2023-05-20T12:13:40+00:00
+weight: 4
 thumbnail: images/portfolio/ticket.png
 service: e-ticketing consultancy
 client: Gallo-Roman Museum

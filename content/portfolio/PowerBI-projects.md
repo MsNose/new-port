@@ -1,6 +1,7 @@
 ---
 title: Power BI & Tableau Projects
 date: 2024-02-10T12:49:27.000+06:00
+weight: 3
 thumbnail: images/portfolio/powerbi.png
 service: Dashboard 
 client: Personal Project
