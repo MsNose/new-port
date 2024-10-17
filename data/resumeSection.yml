@@ -21,14 +21,15 @@ education:
     time: 2023-2024
 
   
-  - content: >
+- content: >
       #### Business Intelligence and Smart Services MSc ✪ Cum Laude
       
       ###### Maastricht University
       
       Choosing this path was the best decision of my life. From Machine Learnig to Data Visualization and Unstructured Data analysis I have found my passion as the bridge between Business and Data Science.
     time: 2022-2023
-  - content: >
+    
+- content: >
       #### Applied Economics BSc
       
       ###### Corvinus University
@@ -47,7 +48,7 @@ experience:
 
     time: 2024 october - present
 
-  - content: >
+- content: > 
       #### Data & Digital Solutions Consultant
       
       **Fagro Consultancy**  
@@ -56,7 +57,7 @@ experience:
 
     time: 2024 march - 2024 august
 
-  - content: >
+- content: >
       #### Smart Service Project
       
       **CGI & Maastricht University**  
@@ -64,7 +65,7 @@ experience:
       This project covered all aspects of a smart service: defining the client's problem, data collection and selection, transformation, organization, model building, visualization, interpretation, and presentation. My team and I helped a logistic company in Maastricht make strategic decisions for the green transition.    
     time: 2023    
     
-  - content: >
+- content: >
       #### ICT internship
       
       **Gallo-Roman Museum Tongeren**  
@@ -73,7 +74,7 @@ experience:
     
     time: 2023
 
-  - content: >
+- content: >
       #### General Office Administrator 
       
       **Granit-Polus Zrt.**   
@@ -81,7 +82,7 @@ experience:
       In my theory-focused bachelor's program, I felt a disconnect from real-world applications. However, by gaining insight into the Finance and Accounting department of a leading real estate company in Hungary, I broadened my perspective on the hurdles confronting the industry today and had the opportunity to contribute to addressing their financial and administrative pain points.
     time: 2021
     
-  - content: >
+- content: >
       #### Erasmus Student Network
       
       Joining the student organisation responsible for the management and entertainment of incoming exchange students equipped me communication skills, organizational skills, and inspired to pursue an education and carrier in international atmospheres.
