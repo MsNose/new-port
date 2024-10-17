@@ -6,12 +6,74 @@ title: >
 
   My academic journey and work experiences across various countries have enriched me profoundly. I eagerly look forward to discovering more.
 
-tab1Name: Experiences
-tab2Name: Education
-tab1Target: experience
-tab2Target: education
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
 
-education:
+experience: 
+  - content: >
+      #### Business Insight Analyst Consultant
+      
+      **Circana**  
+      
+      I am currently responsible for embedding Circana’s proprietary analytical solutions within the Swiss retailer’s processes through training and development, support and continuous development of data visualization to match emerging needs.
+      
+    time: 2024 october - present
+
+
+      
+      
+      
+  - content:  >   
+      #### Data & Digital Solutions Consultant
+      
+      **Fagro Consultancy**  
+      
+      My main project included working as BI specialist at MGG International, a leading aluminium casting company. I was responsible for creating a smooth data flow by automating the manual reporting processes and continuously developing dashboards to help the Board of Directors in their decision-making.
+
+    time: 2024 march - 2024 august
+
+
+  - content: >
+      #### Smart Service Project
+      
+      **CGI & Maastricht University**  
+      
+      This project covered all aspects of a smart service: defining the client's problem, data collection and selection, transformation, organization, model building, visualization, interpretation, and presentation. My team and I helped a logistic company in Maastricht make strategic decisions for the green transition.    
+    time: 2023    
+    
+
+    
+  - content: >
+      #### ICT internship
+      
+      **Gallo-Roman Museum Tongeren**  
+      
+      Being a passionate museum enthusiast, I found it exhilarating to apply my expertise at one of Belgium's premier museums. Through interviews with various Flemish museums and conducting analytical research, I provided recommendations to the Museum Board regarding their digital systems, with a specific emphasis on e-ticketing.
+    
+    time: 2023
+    
+
+  - content: >
+      #### General Office Administrator 
+      
+      **Granit-Polus Zrt.**   
+      
+      In my theory-focused bachelor's program, I felt a disconnect from real-world applications. However, by gaining insight into the Finance and Accounting department of a leading real estate company in Hungary, I broadened my perspective on the hurdles confronting the industry today and had the opportunity to contribute to addressing their financial and administrative pain points.
+    time: 2021
+    
+
+    
+  - content: >
+      #### Erasmus Student Network
+      
+      Joining the student organisation responsible for the management and entertainment of incoming exchange students equipped me communication skills, organizational skills, and inspired to pursue an education and carrier in international atmospheres.
+    time: 2020
+    
+    
+    
+education: 
   - content: >
       #### Erasmus exchange
       
@@ -21,7 +83,7 @@ education:
     time: 2023-2024
 
   
-- content: >
+  - content: >
       #### Business Intelligence and Smart Services MSc ✪ Cum Laude
       
       ###### Maastricht University
@@ -29,61 +91,10 @@ education:
       Choosing this path was the best decision of my life. From Machine Learnig to Data Visualization and Unstructured Data analysis I have found my passion as the bridge between Business and Data Science.
     time: 2022-2023
     
-- content: >
+  - content: >
       #### Applied Economics BSc
       
       ###### Corvinus University
       
       Centered on microeconomics, macroeconomics, econometrics, and economic theories, this program provided me with the foundational principles that underpin our market-driven world. My passion for econometrics inspired me to pursue further studies in Data Science.    
     time: 2019-2022
-
-experience:
- - content: >
-      #### Business Insight Analyst Consultant
-      
-      **Circana**  
-      
-      I am currently responsible for embedding Circana’s proprietary analytical solutions within the Swiss retailer’s processes through training and development, support and continuous development of data visualization to match emerging needs.
-      
-
-    time: 2024 october - present
-
-- content: > 
-      #### Data & Digital Solutions Consultant
-      
-      **Fagro Consultancy**  
-      
-      My main project included working as BI specialist at MGG International, a leading aluminium casting company. I was responsible for creating a smooth data flow by automating the manual reporting processes and continuously developing dashboards to help the Board of Directors in their decision-making.
-
-    time: 2024 march - 2024 august
-
-- content: >
-      #### Smart Service Project
-      
-      **CGI & Maastricht University**  
-      
-      This project covered all aspects of a smart service: defining the client's problem, data collection and selection, transformation, organization, model building, visualization, interpretation, and presentation. My team and I helped a logistic company in Maastricht make strategic decisions for the green transition.    
-    time: 2023    
-    
-- content: >
-      #### ICT internship
-      
-      **Gallo-Roman Museum Tongeren**  
-      
-      Being a passionate museum enthusiast, I found it exhilarating to apply my expertise at one of Belgium's premier museums. Through interviews with various Flemish museums and conducting analytical research, I provided recommendations to the Museum Board regarding their digital systems, with a specific emphasis on e-ticketing.
-    
-    time: 2023
-
-- content: >
-      #### General Office Administrator 
-      
-      **Granit-Polus Zrt.**   
-      
-      In my theory-focused bachelor's program, I felt a disconnect from real-world applications. However, by gaining insight into the Finance and Accounting department of a leading real estate company in Hungary, I broadened my perspective on the hurdles confronting the industry today and had the opportunity to contribute to addressing their financial and administrative pain points.
-    time: 2021
-    
-- content: >
-      #### Erasmus Student Network
-      
-      Joining the student organisation responsible for the management and entertainment of incoming exchange students equipped me communication skills, organizational skills, and inspired to pursue an education and carrier in international atmospheres.
-    time: 2020
