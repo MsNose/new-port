@@ -6,10 +6,10 @@ title: >
 
   My academic journey and work experiences across various countries have enriched me profoundly. I eagerly look forward to discovering more.
 
-tab1Name: Education
-tab2Name: Experiences
-tab1Target: education
-tab2Target: experience
+tab1Name: Experiences
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
 
 education:
   - content: >
@@ -37,6 +37,16 @@ education:
     time: 2019-2022
 
 experience:
+ - content: >
+      #### Business Insight Analyst Consultant
+      
+      **Circana**  
+      
+      I am currently responsible for embedding Circana’s proprietary analytical solutions within the Swiss retailer’s processes through training and development, support and continuous development of data visualization to match emerging needs.
+      
+
+    time: 2024 october - present
+
   - content: >
       #### Data & Digital Solutions Consultant
       
