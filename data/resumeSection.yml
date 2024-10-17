@@ -6,10 +6,10 @@ title: >
 
   My academic journey and work experiences across various countries have enriched me profoundly. I eagerly look forward to discovering more.
 
-tab1Name: Education
-tab2Name: Experiences
-tab1Target: education
-tab2Target: experience
+tab1Name: Experiences
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
 
 experience: 
   - content: >

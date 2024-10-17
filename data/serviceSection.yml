@@ -15,19 +15,24 @@ service:
   - content: >
       #### Data Analysis 
 
-      From collectiong and transforming to analysing and predicting i love being a passenger on the data journey. Getting from data to information, knowledge and wisdom is a real gamechanger.
+      From collecting and transforming to analysing and predicting I love being a passenger on the data journey. Getting from data to information, knowledge and wisdom is a real gamechanger.
     image: images/service/ui-ux.svg
+    
+    
+  - content: >
+      #### Languages
+
+      With my international family connections and curiosity for travel I managed to learn a lot of languages, which became truly my passion.
+    image: images/service/branding.svg
+    
+
   - content: >
       #### Web Development 
 
       My enthousiasm for web-development started with a travelblog, where I collected my memories during my exchange semester at Bocconi.
     image: images/service/web.svg
   
-  - content: >
-      #### Languages
 
-      With my international family connections and curiosity for travel I managed to learn a lot of languages, which became truly my passion.
-    image: images/service/branding.svg
     
   - content: >
       #### Reading
