@@ -14,7 +14,7 @@ solution: Thanks to the insightful consultations with the stakeholders and the s
 
 ## The situation
 
-Due to the rapid digital transformation [MGG](https://www.mgg.com/nl/) has chosen to connect the Tableau dashboards to excel reports, which were easier and quicker to build compared to alternative data transformation processes. However, these reports were reliant on the work of multiple stakeholders and required tremendous manual work to keep it up to date. Consequently, there was no time to create and maintain complicated dashboards, leading to table-based static views that limited the value of the gathered information. 
+Due to the rapid digital transformation MGG has chosen to connect the Tableau dashboards to excel reports, which were easier and quicker to build compared to alternative data transformation processes. However, these reports were reliant on the work of multiple stakeholders and required tremendous manual work to keep it up to date. Consequently, there was no time to create and maintain complicated dashboards, leading to table-based static views that limited the value of the gathered information. 
 
 ## The data
 
