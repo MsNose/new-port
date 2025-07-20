@@ -13,6 +13,12 @@ skill:
     percent: 90
   - title: Python
     percent: 70
+  - title: JavaScript
+    percent: 95
+  - title: HTML
+    percent: 65
+  - title: CSS
+    percent: 75
   - title: Tableau
     percent: 85
   - title: PowerBI
