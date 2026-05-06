@@ -52,9 +52,9 @@ logo = "images/site-navigation/logo3.png"
 
 [params.address]
 email = "blanka.mori.01@gmail.com"
-phone = "+36 20 450 8032"
-address = "Rome"
-openingHours = "8am - 4pm on weekdays"
+phone = "+41 78 332 78 44"
+address = "Ticino (CH)"
+openingHours = "9am - 5pm on weekdays"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
